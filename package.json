@@ -1,0 +1,17 @@
+{
+  "name": "BotDiscord",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "Raphaël Verdoit",
+  "license": "ISC",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+
+  "scripts": {
+    "start": "node index.js"
+  }
+}
+
